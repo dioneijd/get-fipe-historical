@@ -1,0 +1,11 @@
+{
+  "name": "get-fipe-historical",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dioneijd/get-fipe-historical.git",
+  "author": "Dionei J. Delangolo <dionei.jd@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
